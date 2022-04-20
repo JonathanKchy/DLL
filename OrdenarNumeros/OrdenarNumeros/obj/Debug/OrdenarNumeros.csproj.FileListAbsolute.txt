@@ -1,0 +1,10 @@
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\bin\Debug\OrdenarNumeros.dll
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\bin\Debug\OrdenarNumeros.pdb
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\bin\Debug\Microsoft.Analytics.Interfaces.dll
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\bin\Debug\Microsoft.Analytics.Types.dll
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\obj\Debug\OrdenarNumeros.csproj.AssemblyReference.cache
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\obj\Debug\OrdenarNumeros.csproj.CoreCompileInputs.cache
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\obj\Debug\OrdenarNumeros.csproj.CopyComplete
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\obj\Debug\OrdenarNumeros.dll
+E:\classs\DLL en C#\OrdenarNumeros\OrdenarNumeros\obj\Debug\OrdenarNumeros.pdb

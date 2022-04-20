@@ -1,0 +1,11 @@
+E:\classs\DLL en C#\EjemploDll\EjemploDll\bin\Debug\EjemploDll.exe.config
+E:\classs\DLL en C#\EjemploDll\EjemploDll\bin\Debug\EjemploDll.exe
+E:\classs\DLL en C#\EjemploDll\EjemploDll\bin\Debug\EjemploDll.pdb
+E:\classs\DLL en C#\EjemploDll\EjemploDll\bin\Debug\OrdenarNumeros.dll
+E:\classs\DLL en C#\EjemploDll\EjemploDll\bin\Debug\OrdenarNumeros.pdb
+E:\classs\DLL en C#\EjemploDll\EjemploDll\obj\Debug\EjemploDll.csproj.AssemblyReference.cache
+E:\classs\DLL en C#\EjemploDll\EjemploDll\obj\Debug\EjemploDll.csproj.SuggestedBindingRedirects.cache
+E:\classs\DLL en C#\EjemploDll\EjemploDll\obj\Debug\EjemploDll.csproj.CoreCompileInputs.cache
+E:\classs\DLL en C#\EjemploDll\EjemploDll\obj\Debug\EjemploDll.csproj.CopyComplete
+E:\classs\DLL en C#\EjemploDll\EjemploDll\obj\Debug\EjemploDll.exe
+E:\classs\DLL en C#\EjemploDll\EjemploDll\obj\Debug\EjemploDll.pdb
